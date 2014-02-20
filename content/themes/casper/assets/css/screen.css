@@ -598,6 +598,26 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 
+/* Our email opt-in form */
+.cta {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 0.1rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    color: #FFF;
+    background-color: #303538;
+}
+
+.spam-free {
+    font-size: 1.3rem;
+    line-height: 1.7em;
+    color: #BBC7CC;
+}
+
+
 /* ==========================================================================
    6. Third Party Elements - Embeds from other services
    ========================================================================== */
